@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SignificantRecycleView</string>
+    <string name="btn_remove">Remove Item</string>
+</resources>

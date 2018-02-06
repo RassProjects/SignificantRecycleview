@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lib</string>
+    <string name="default_empty_text">No Data Available.</string>
+</resources>
